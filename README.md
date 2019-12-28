@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <a href="https://radiant-sands-51546.herokuapp.com/profile/deepak.chandani">
-  <img src="https://www.gravatar.com/avatar/76b3845fdeebdcccbd3728f4df17c788?s=235" alt="Deepak"></a>
+  <img src="https://www.gravatar.com/avatar/76b3845fdeebdcccbd3728f4df17c788?s=135" alt="Deepak"></a>
   <br>
 </h3>
 
