@@ -40,7 +40,7 @@ export default function Nav ({onToggleTheme}) {
             </button>
             <a
               style={{marginLeft: 5, marginTop:15}}
-              href="https://github.com/deepak-chandani"
+              href="https://github.com/deepak-chandani/github-battle-hooks"
               target="_blank"
             >
               <FaGithub color={theme==='light' ? 'black' : 'white'} size={35} />
