@@ -12,7 +12,7 @@
   <br>
 </h3>
 
-<h3 align="center">React Hooks Course Project - <a href="http://react-hooks-dc.surge.sh">Github Battle App (using hooks) demo</a></h3>
+<h3 align="center">React Hooks practice project - <a href="https://react-hooks-dc.surge.sh">Github Battle App (using hooks) demo</a></h3>
 
 ### Info
 I learned different react hooks eg: `useState()`, `useEffect()`, `useReducer()` etc. 
